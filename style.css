@@ -3,5 +3,10 @@ body {
   background-color: rgb(39, 39, 39);
   display: flex;
   justify-content: center;
+  font-family: monospace;
 }
 
+canvas {
+  margin-top: 25px;
+  z-index: 10;
+}
